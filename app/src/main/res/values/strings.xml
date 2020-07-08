@@ -1,3 +1,8 @@
 <resources>
     <string name="app_name">JokesApp</string>
+    <string name="riddles_app">RIDDLES APP</string>
+    <string name="ali_ne_road_cross_q_kia">Ali ne road cross q kia??</string>
+    <string name="wo_kya_he_jo_red_he_lekin_smell_blue_paint_ki_tarah_he">Wo kya he jo red he lekin smell blue paint ki tarah he?</string>
+    <string name="meri_4_taange_hen_lekin_chal_nahi_sakti">Meri 4 taange hen lekin chal nahi sakti</string>
+    <string name="me_water_hun_lekin_mujhe_khaya_jatahe">Me water hun lekin mujhe khaya jatahe?</string>
 </resources>
